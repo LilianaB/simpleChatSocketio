@@ -1,0 +1,23 @@
+{
+  "name": "chatio",
+  "version": "1.0.0",
+  "description": "simple chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LilianaB/simpleChatSocketio.git"
+  },
+  "author": "lbarri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LilianaB/simpleChatSocketio/issues"
+  },
+  "homepage": "https://github.com/LilianaB/simpleChatSocketio#readme",
+  "dependencies": {
+    "socket.io":"*",
+    "express":"*"
+  }
+}
